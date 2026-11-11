@@ -1,0 +1,6 @@
+node_modules/
+session.txt
+sessions/
+allowed_users.json
+.env
+*.log

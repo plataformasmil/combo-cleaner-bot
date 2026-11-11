@@ -1,0 +1,23 @@
+{
+  "name": "combo-cleaner-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "grammy": "^1.46.0",
+    "https-proxy-agent": "^9.1.0",
+    "imapflow": "^2.4.0",
+    "input": "^1.0.1",
+    "node-telegram-bot-api": "^2.1.0",
+    "socks": "^2.8.10",
+    "telegram": "^2.26.22"
+  }
+}
